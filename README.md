@@ -1,13 +1,33 @@
-## 👨‍💻 Who am I? 
-🎓 I am a current First-year studying at the University of North Carolina at Chapel Hill majoring in Computer Science and Economics.
+# 👋 Welcome!
 
-💻 I'm particularly passionate about employing computational methods to construct quantitative analyses and improve economic dynamics in underprivileged communities.
+## 👨‍💻 Who am I? 
+
+🎓 **First-Year Student** at the University of North Carolina at Chapel Hill, double majoring in **Computer Science** and **Economics**.
+
+💻 I’m passionate about applying computational methods to build **quantitative analyses** and enhance **economic development** in underprivileged communities.
+
+---
+
+## 📚 Current Classes
+
+- **COMP 110** - Introduction to Programming  
+- **COMP 290** - Essentials Tools for Computer Science  
+- **MATH 231** - Calculus 1  
+- **IDST 113L** - Data Literacy Lab  
+
+---
 
 ## 🔧 Programming Languages and Tools
 
-| Python | Docker | Git | VS Code |
-|--------|--------|-----|---------|
-| <img src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png" alt="Python" width="120"/> | <img src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png" alt="Docker" width="120"/> | <img src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png" alt="Git" width="120"/> | <img src="https://code.visualstudio.com/assets/images/code-stable.png" alt="VS Code" width="120"/> |
+| ![Python](https://www.python.org/static/community_logos/python-logo-master-v3-TM.png) | ![Docker](https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png) | ![Git](https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png) | ![VS Code](https://code.visualstudio.com/assets/images/code-stable.png) |
+|:---:|:---:|:---:|:---:|
+| **Python** | **Docker** | **Git** | **VS Code** |
+
+---
+
+## 📫 How to Reach Me
+
+Feel free to connect via [LinkedIn](https://www.linkedin.com/in/cauameloo/) or [Email](mailto:cauamelo@unc.edu)! Let's discuss coding, economics, and ways to create meaningful impact!
 
 
 
