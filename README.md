@@ -5,10 +5,9 @@
 
 ## 🔧 Programming Languages and Tools
 
-<img src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png" alt="Python" width="200"/>
-<img src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png" alt="Docker" width="200"/>
-<img src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png" alt="Git" width="200"/>
-<img src="https://code.visualstudio.com/assets/images/code-stable.png" alt="VS Code" width="200"/>
+| Python | Docker | Git | VS Code |
+|--------|--------|-----|---------|
+| ![Python](https://www.python.org/static/community_logos/python-logo-master-v3-TM.png) | ![Docker](https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png) | ![Git](https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png) | ![VS Code](https://code.visualstudio.com/assets/images/code-stable.png) |
 
 
 
