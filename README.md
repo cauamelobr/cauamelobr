@@ -1,4 +1,11 @@
-## Hi there 👋
+## 👨‍💻 Who am I? 
+🎓 I am a current First-year studying at the University of North Carolina at Chapel Hill majoring in Computer Science and Economics.
+
+💻 I'm particularly passionate about employing computational methods to construct quantitative analyses and improve economic dynamics in underprivileged communities.
+
+## 🔧 Tools and Programming Languages 
+![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
+
 
 <!--
 **cauamelobr/cauamelobr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
