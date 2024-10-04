@@ -49,12 +49,14 @@
 ---
 
 ## 🛠️ Skills  
+**Technical Skills:**  
+| Python | Docker | Git | VS Code |
+|--------|--------|-----|---------|
+| <img src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png" alt="Python" width="120"/> | <img src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png" alt="Docker" width="120"/> | <img src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png" alt="Git" width="120"/> | <img src="https://code.visualstudio.com/assets/images/code-stable.png" alt="VS Code" width="120"/> |
+
 **Languages:**  
 - Portuguese (Native)  
 - English (Advanced)  
 - Spanish (Basic)  
 
-**Technical Skills:**  
-- Python (Intermediate)  
-- R (Basic)  
-- MATLAB (Basic)  
+
