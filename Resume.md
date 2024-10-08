@@ -49,10 +49,27 @@
 ---
 
 ## 🛠️ Skills  
-**Technical Skills:**  
-| Python | Docker | Git | VS Code |
-|--------|--------|-----|---------|
-| <img src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png" alt="Python" width="120"/> | <img src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png" alt="Docker" width="120"/> | <img src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png" alt="Git" width="120"/> | <img src="https://code.visualstudio.com/assets/images/code-stable.png" alt="VS Code" width="120"/> |
+## Technical Skills
+
+<table>
+  <tr>
+    <th>Python</th>
+    <th>Docker</th>
+    <th>Git</th>
+    <th>VS Code</th>
+    <th>C++</th>
+    <th>Pandas</th>
+  </tr>
+  <tr>
+    <td><img src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png" alt="Python" width="120"/></td>
+    <td><img src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png" alt="Docker" width="120"/></td>
+    <td><img src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png" alt="Git" width="120"/></td>
+    <td><img src="https://code.visualstudio.com/assets/images/code-stable.png" alt="VS Code" width="120"/></td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="120"/></td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas" width="120"/></td>
+  </tr>
+</table>
+
 
 **Languages:**  
 - Portuguese (Native)  
