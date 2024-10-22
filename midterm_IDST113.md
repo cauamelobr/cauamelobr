@@ -2,7 +2,6 @@
 
 # Creating the markdown content for the questionnaire with multiple choice and short-answer questions
 
-questions_md = """# Race Questionnaire
 
 ## Part 1: Multiple Choice Questions (30 Questions)
 
