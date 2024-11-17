@@ -15,24 +15,33 @@
 - **MATH 231** - Calculus 1  
 - **IDST 113L** - Data Literacy Lab  
 
+# 🛠️ Tech Stack
+
+### 📊 Data Analysis
+| Tool       |                                                                                  |
+|------------|--------------------------------------------------------------------------------------|
+| **Pandas** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="30"/> |
+| **R**      | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="30"/> |
+| **Tableau**| <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" width="30"/> |
+| **Excel**  | <img src="https://upload.wikimedia.org/wikipedia/commons/8/86/Microsoft_Excel_2013_logo.svg" width="30"/> |
+
 ---
 
-## Programming Languages and Tools
+### 🌐 Web Development
+| Area       | Tool        |                                                                                   |
+|------------|-------------|----------------------------------------------------------------------------------------|
+| **Frontend**| HTML   | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30"/> |
+| **Backend**| Python  | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30"/> |
+|            | C++     | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="30"/> |
 
-- **Data Analysis:**  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas" width="30"/> Pandas &nbsp;&nbsp;&nbsp; R &nbsp;&nbsp;&nbsp; Tableau &nbsp;&nbsp;&nbsp; Excel  
+---
 
-- **Frontend:**  
-  HTML  
-
-- **Backend:**  
-  <img src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png" alt="Python" width="30"/> Python &nbsp;&nbsp;&nbsp; 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="30"/> C++  
-
-- **Tools:**  
-  <img src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png" alt="Docker" width="30"/> Docker &nbsp;&nbsp;&nbsp; 
-  <img src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png" alt="Git" width="30"/> Git  
-
+### ⚙️ Tools
+| Tool        |                                                                                       |
+|-------------|--------------------------------------------------------------------------------------------|
+| **Docker**  | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30"/> |
+| **Git**     | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30"/> |
+| **VS Code** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30"/> |
 
 ---
 
