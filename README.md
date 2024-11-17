@@ -19,24 +19,20 @@
 
 ## Programming Languages and Tools
 
-<table>
-  <tr>
-    <th>Python</th>
-    <th>Docker</th>
-    <th>Git</th>
-    <th>VS Code</th>
-    <th>C++</th>
-    <th>Pandas</th>
-  </tr>
-  <tr>
-    <td><img src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png" alt="Python" width="120"/></td>
-    <td><img src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png" alt="Docker" width="120"/></td>
-    <td><img src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png" alt="Git" width="120"/></td>
-    <td><img src="https://code.visualstudio.com/assets/images/code-stable.png" alt="VS Code" width="120"/></td>
-    <td><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="120"/></td>
-    <td><img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas" width="120"/></td>
-  </tr>
-</table>
+- **Data Analysis:**  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas" width="30"/> Pandas &nbsp;&nbsp;&nbsp; R &nbsp;&nbsp;&nbsp; Tableau &nbsp;&nbsp;&nbsp; Excel  
+
+- **Frontend:**  
+  HTML  
+
+- **Backend:**  
+  <img src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png" alt="Python" width="30"/> Python &nbsp;&nbsp;&nbsp; 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="30"/> C++  
+
+- **Tools:**  
+  <img src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png" alt="Docker" width="30"/> Docker &nbsp;&nbsp;&nbsp; 
+  <img src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png" alt="Git" width="30"/> Git  
+
 
 ---
 
