@@ -2,7 +2,7 @@
 
 ### 👨‍💻 About Me
 
-I'm a first-year student at UNC-Chapel Hill, double majoring in **Computer Science** and **Economics**.
+I'm a second-year student at UNC-Chapel Hill, double majoring in **Computer Science** and **Economics**.
 
 My passion is using computational methods to build **quantitative analyses** and support **economic development** in underprivileged communities.
 
