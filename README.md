@@ -1,68 +1,32 @@
-# 👋 Welcome!
+# 👋 Welcome to my GitHub!
 
-## 👨‍💻 Who am I? 
+### 👨‍💻 About Me
 
-🎓 **First-Year Student** at the University of North Carolina at Chapel Hill, double majoring in **Computer Science** and **Economics**.
+I'm a first-year student at UNC-Chapel Hill, double majoring in **Computer Science** and **Economics**.
 
-💻 I’m passionate about applying computational methods to build **quantitative analyses** and enhance **economic development** in underprivileged communities.
-
----
-
-## 📚 Current Classes
-
-- **COMP 110** - Introduction to Programming  
-- **COMP 290** - Essentials Tools for Computer Science  
-- **MATH 231** - Calculus 1  
-- **IDST 113L** - Data Literacy Lab  
-
-# 🛠️ Tech Stack
-
-### 📊 Data Analysis
-| Tool       |                                                                                  |
-|------------|--------------------------------------------------------------------------------------|
-| **Pandas** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="30"/> |
-| **R**      | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="30"/> |
-| **Tableau**| <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" width="30"/> |
-| **Excel**  | <img src="https://upload.wikimedia.org/wikipedia/commons/8/86/Microsoft_Excel_2013_logo.svg" width="30"/> |
+My passion is using computational methods to build **quantitative analyses** and support **economic development** in underprivileged communities.
 
 ---
 
-### 🌐 Web Development
-| Area       | Tool        |                                                                                   |
-|------------|-------------|----------------------------------------------------------------------------------------|
-| **Frontend**| HTML   | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30"/> |
-| **Backend**| Python  | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30"/> |
-|            | C++     | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="30"/> |
+### 📚 Relevant Coursework
+
+* **Computer Science:** Data Structures and Algorithms, System Fundamentals, Foundations of Programming, Discrete Math
+* **Mathematics:** Calculus I, II, & III
+* **Other:** Data Literacy
 
 ---
 
-### ⚙️ Tools
-| Tool        |                                                                                       |
-|-------------|--------------------------------------------------------------------------------------------|
-| **Docker**  | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30"/> |
-| **Git**     | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30"/> |
-| **VS Code** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30"/> |
+### 🛠️ My Tech Stack
+
+| Category | Languages & Tools |
+| :--- | :--- |
+| **Programming Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) |
+| **Databases & Data** | ![SQL](https://img.shields.io/badge/SQL-4479A5?style=for-the-badge&logo=postgresql&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) |
+| **Tools & Platforms** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
+
 
 ---
 
-## 📫 How to Reach Me
+### 📫 Let's Connect!
 
-Feel free to connect via [LinkedIn](https://www.linkedin.com/in/cauameloo/) or [Email](mailto:cauamelo@unc.edu)! Let's discuss coding, economics, and ways to create meaningful impact!
-
-
-
-
-<!--
-**cauamelobr/cauamelobr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/cauameloo/) or [Email](mailto:cauamelo@unc.edu). I'm always open to discussing new ideas and opportunities.
