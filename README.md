@@ -1,6 +1,6 @@
 # 👋 Welcome to my GitHub!
 
-### 👨‍💻 About Me
+### 👨‍💻 [About Me](cauamelo.netlify.app)
 
 I'm a second-year student at UNC-Chapel Hill, double majoring in **Computer Science** and **Economics**.
 
