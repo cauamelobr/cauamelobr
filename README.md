@@ -10,7 +10,7 @@ My passion is using computational methods to build **quantitative analyses** and
 
 ### 📚 Relevant Coursework
 
-* **Computer Science:** Data Structures and Algorithms, System Fundamentals, Foundations of Programming, Discrete Math
+* **Computer Science:** Data Structures and Algorithms, OOP and Design Patterns, Processors, Discrete Math
 * **Mathematics:** Calculus I, II, & III
 * **Other:** Data Literacy
 
