@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-A **Computer Science & Economics** student and a **Brazilian builder** 
+**Computer Science & Economics** student and **Brazilian builder** 
 
 Sophomore at **UNC Chapel Hill** (Honors Carolina, Behring Fellow, F-1 scholar); incoming SWE Intern at **BTG Pactual** (FX & Credit);
 Founder of **Ampulheta do Saber** — Brazil's first student-organized national science olympiad, 40k+ participants.
