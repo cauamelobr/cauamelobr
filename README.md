@@ -1,11 +1,6 @@
 ### Hello there 👋
 
 **Computer Science & Economics** student and **Brazilian builder** 
+**UNC Chapel Hill** (Honors Carolina, Behring Fellow)
 
-Sophomore at **UNC Chapel Hill** (Honors Carolina, Behring Fellow, F-1 scholar)
-
-- ⚙️ I build with: `Python`, `Java`, `Next.js`, `R`, `Kafka`, `Temporal`, `LangChain`
-- 🌎 Long-term: AI systems for public institutions across the Brazilian Northeast
-- 🔬 Researching computer vision (CLIPReID / ViT-B/16) @ UNC's Computer Science
-- 🗺️ From Maceió, Alagoas 
 - 💬 Ping me about **AI applications**, **econometrics**, **economic development**
